@@ -18,8 +18,13 @@ Open **T3 Code**, start a new chat with **Claude**, and paste this:
 Install or update the T3 Status widget on this PC from https://github.com/BliksemCode1/t3-status - follow INSTALL.md there.
 ```
 
-Approve what it asks. Use the same prompt to update. When an update is out, the widget shows **● UPDATE** and the
-tray menu has an "Update available" item that copies this prompt for you.
+Approve what it asks. That's the only time an AI is involved.
+
+## Updates
+
+When a new version is out, the widget shows a small blue dot. Right-click the tray icon (or click **⋯** on the
+widget) → **Update to vX now**. It downloads the new version from this page's Releases, checks it against GitHub's
+checksum, swaps it in and restarts. Press **↻** to check for a new version right away; otherwise it checks every hour.
 
 ## Using it
 
