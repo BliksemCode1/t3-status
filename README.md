@@ -10,7 +10,7 @@ A small floating desktop widget for **T3 Code + Claude** on Windows.
 
 Native Windows app (Rust), about 2 MB, ~10 MB of memory.
 
-## Install or update
+## Install
 
 Open **T3 Code**, start a new chat with **Claude**, and paste this:
 
