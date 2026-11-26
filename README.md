@@ -25,6 +25,7 @@ tray menu has an "Update available" item that copies this prompt for you.
 
 - **Ctrl+Alt+U** shows or hides it. Right-click the tray icon for the menu.
 - Drag it anywhere; it snaps to screen edges and to the T3 window.
+- Tray menu → **Stick to T3**: it follows the T3 window and hides when T3 is minimized (works with T3 maximized too).
 - **▾** expands it, hover a row for details, click a task to open its chat in T3.
 
 ## Privacy
